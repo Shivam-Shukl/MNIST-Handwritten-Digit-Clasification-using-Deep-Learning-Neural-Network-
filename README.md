@@ -111,7 +111,6 @@ model = keras.Sequential([
 - Test accuracy: ~97%+
 - Model generalizes well across all digit classes (0–9)
 
-> **Note:** Exact accuracy values can be found in the notebook output cells.
 
 ---
 
